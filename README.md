@@ -1,1 +1,1 @@
-# ML-Walmart-Recruiting---Store-Sales-Forecasting
+# ML-StoreSalesForecasting

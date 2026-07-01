@@ -1,0 +1,33 @@
+# Data (download from Kaggle locally)
+data/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow / experiment tracking
+mlruns/
+mlartifacts/
+
+# Wandb (optional)
+wandb/
+
+# Environment & secrets
+.env
+.kaggle/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
